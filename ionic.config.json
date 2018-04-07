@@ -1,0 +1,8 @@
+{
+  "name": "deportesUNQ-mobile",
+  "app_id": "fcb83f89",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
